@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Actuellement, je travaille sur un site web à destination d'un **restaurateur rezéen** (CMS Headless avec React.JS)
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 En ce moment, j'apprends **Docker, C# et Angular**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/mrlootman/mrlootman/issues)**
+💬 Ma stack technique, c'est **React, Express.js, MySQL...**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Ce qui qui stimule le plus : **L'enseignement 😄**
 
  </div>
  
