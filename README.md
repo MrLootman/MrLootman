@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages - Frameworks - Outils ⚒️</h2>
+<h2 align="center">⚒️ Langages - Frameworks - Outils ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwind,git" /><br>
