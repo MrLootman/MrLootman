@@ -16,7 +16,7 @@
 
 💬 Ma stack technique, c'est **React, Express.js, MySQL...**
 
-⚡ Ce qui stimule le plus : **L'enseignement 😄**
+⚡ Ce qui me stimule le plus : **L'enseignement 😄**
 
  </div>
  
