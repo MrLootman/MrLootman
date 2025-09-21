@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salutations+!+👋;+Moi,+c'est+Nicolas!;" />
 </h1>
 
-<h3 align="center">Je suis formateur en développement web et web mobile 😉</h3>
+<h3 align="center">Je suis développeur / formateur en développement web et web mobile 😉</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 Actuellement, je travaille sur un site web à destination d'un **restaurateur rezéen** (CMS Headless avec React.JS)
  
- 🌱 En ce moment, j'apprends **Docker, C# et Angular**
+ 🌱 En ce moment, j'apprends **Docker et Java**
 
-💬 Ma stack technique, c'est **React, Express.js, MySQL...**
+💬 Ma stack technique, c'est **React, TypeScript, Express.js, MySQL...**
 
 ⚡ Ce qui me stimule le plus : **L'enseignement 😄**
 
